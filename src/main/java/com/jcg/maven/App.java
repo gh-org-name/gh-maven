@@ -29,6 +29,7 @@ public class App
 
         String str = "/File|Name.txt";
 
+        //TODO todo
         String clean = str.replaceAll(".",""); // Noncompliant; probably meant to remove only dot chars, but returns an empty string
         String clean2 = str.replaceAll("|","_"); // Noncompliant; yields _/_F_i_l_e_|_N_a_m_e_._t_x_t_
 
