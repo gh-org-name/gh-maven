@@ -28,7 +28,7 @@ pipelines:
   default:
     - step: *build-test
   branches:
-    master:
+    '**':
       - step: *build-test-sonarcloud
   pull-requests:
     '**':
