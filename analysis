@@ -1,0 +1,2 @@
+mvn sonar:sonar   -Dsonar.projectKey=RepoTest   -Dsonar.host.url=http://localhost:9000   -Dsonar.login=84b82d4fad114f4cb8b702ceca306ff2a9152e35
+
