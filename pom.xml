@@ -11,7 +11,6 @@
     <properties>
         <sonar.projectKey>globalbbcteam_mavenprojectexample</sonar.projectKey>
         <sonar.organization>globalbbcteam</sonar.organization>
-        <sonar.host.url>https://dogfood-core.sc-dev.io</sonar.host.url>
         <sonar.login>3a79fceee9054c68dedcc770ae3d1501b0f58e11</sonar.login>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
