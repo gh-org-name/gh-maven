@@ -10,7 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         //TODO hey oh !
-        //TODO another todo
     }
 
     public void newMethodGitchecks(){
