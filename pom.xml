@@ -8,12 +8,9 @@
   <name>mavenProjectExample</name>
   <url>http://maven.apache.org</url>
 
-    <properties>
-        <sonar.projectKey>globalbbcteam_mavenprojectexample</sonar.projectKey>
-        <sonar.organization>globalbbcteam</sonar.organization>
-        <maven.compiler.source>1.6</maven.compiler.source>
-        <maven.compiler.target>1.6</maven.compiler.target>
-    </properties>
+  <properties>
+  <sonar.projectKey>My-Github-Test-Orga_gh-maven</sonar.projectKey>
+</properties>
 
   <dependencies>
     <dependency>
