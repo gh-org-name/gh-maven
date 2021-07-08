@@ -11,7 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         int k;
         boolean b = true;
-        while (b) { // Noncompliant; b never written to in loop
+        while (b) { 
           k++;
         }
     }
