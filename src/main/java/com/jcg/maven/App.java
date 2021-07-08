@@ -9,6 +9,11 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        int k;
+        boolean b = true;
+        while (b) { 
+          k++;
+        }   
     }
     public static List<String> zipSlipNoncompliant(ZipFile zipFile) throws IOException {
         Enumeration<? extends ZipEntry> entries = zipFile.entries();
